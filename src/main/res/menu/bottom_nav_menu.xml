@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/logo"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_wallet"
+        android:icon="@drawable/ic_wallet"
+        android:title="Wallet" />
+    <item
+        android:id="@+id/nav_transaction"
+        android:icon="@drawable/transaction"
+        android:title="Transaction" />
+    <item
+        android:id="@+id/nav_budget"
+        android:icon="@drawable/budget"
+        android:title="Budget" />
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/ic_more"
+        android:title="More" />
+</menu>
